@@ -9,3 +9,6 @@ Titus Jonas ist der Onkel von Justus.
 * Justus Jonas - Erster Detektiv
 * Peter Shaw - Zweiter Detektiv
 * Bob Andrews - Recherchen und Archiv
+
+Ihr Motto ist:
+> Wir übernehmen jeden Fall
